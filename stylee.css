@@ -1,0 +1,57 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #612626;
+    margin: 20em;
+  }
+.menu {
+  font-size: 1em;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.title {
+  width: fit-content;
+  color: azure;
+  background: rgb(45, 55, 112);
+  width:fit-content ;
+  margin: auto;
+  padding: 5em 5em 3em 4em;
+  font-size: 5em;
+  border: .1em solid black;
+  padding-top: 1em;
+  margin-right: auto;
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+
+}
+
+.peliculas {
+  margin: auto;
+  font-size: 3em;
+  color: blue;
+  border: .1em solid black;
+  background: rgb(216, 214, 214);
+  padding: 2em 2em 2em 2em;
+  text-align: center;
+}
+
+#imagen {
+  width: fit-content;
+  height: fit-content;
+  padding-top: 2em;
+  margin: auto;
+}
+
+.parrafo {
+  font-weight: blue;
+  color: blue;
+  font-size: 3em;
+  text-align: center;
+  padding-top: 2em;
+  padding-right: 1em;
+  padding-bottom: 2em;
+  background: rgb(139, 139, 167);
+
+  
+  
+}
